@@ -1,0 +1,99 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(198, 233, 164);
+  }
+  
+  .blog-header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  .blog-header h1 {
+    margin: 0;
+  }
+  
+  .blog-header nav {
+    margin: 1rem 0;
+  }
+  
+  .blog-header nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .blog-header nav ul li {
+    display: inline;
+    margin: 0 0.5rem;
+  }
+  
+  .blog-header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .blog-content {
+    padding: 2rem;
+  }
+  
+  .featured-posts {
+    margin-bottom: 2rem;
+  }
+  
+  .featured-posts h2 {
+    margin-bottom: 1rem;
+  }
+  
+  .post-card {
+    background-color: #f2f2f2;
+    border: 1px solid #ddd;
+    margin-bottom: 1rem;
+    padding: 1rem;
+  }
+  
+  .post-card img {
+    max-width: 100%;
+  }
+  
+  .post-card h3 {
+    margin: 0.5rem 0;
+  }
+  
+  .post-card p {
+    margin: 0;
+  }
+  
+  .recent-posts {
+    margin-bottom: 2rem;
+  }
+  
+  .recent-posts h2 {
+    margin-bottom: 1rem;
+  }
+  
+  .post-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .post-list li {
+    margin-bottom: 1rem;
+  }
+  
+  .post-list time {
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+  
+  .post-list h3 {
+    margin: 0;
+  }
+  
+  .post-list p {
+    margin: 0;
+  }
